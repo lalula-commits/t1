@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# t1 - 牙醫診所網站
 
-## Getting Started
+牙醫測試1
 
-First, run the development server:
+## 專案介紹
+
+這是一個使用 [Next.js](https://nextjs.org) 建立的牙醫診所網站專案，使用 [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app) 初始化。
+
+## 開始使用
+
+首先，啟動開發伺服器：
 
 ```bash
 npm run dev
-# or
+# 或
 yarn dev
-# or
+# 或
 pnpm dev
-# or
+# 或
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+在瀏覽器中開啟 [http://localhost:3000](http://localhost:3000) 查看結果。
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+您可以通過修改 `app/page.tsx` 來開始編輯頁面。當您編輯檔案時，頁面會自動更新。
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+此專案使用 [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) 自動優化並載入 [Geist](https://vercel.com/font)，這是 Vercel 的新字體家族。
 
-## Learn More
+## 了解更多
 
-To learn more about Next.js, take a look at the following resources:
+要了解更多關於 Next.js 的資訊，請查看以下資源：
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js 文件](https://nextjs.org/docs) - 了解 Next.js 功能和 API。
+- [學習 Next.js](https://nextjs.org/learn) - 互動式 Next.js 教學。
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+您可以查看 [Next.js GitHub 倉庫](https://github.com/vercel/next.js) - 歡迎您的回饋和貢獻！
 
-## Deploy on Vercel
+## 在 Vercel 上部署
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+部署 Next.js 應用程式最簡單的方法是使用 Next.js 創建者提供的 [Vercel 平台](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)。
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+查看我們的 [Next.js 部署文件](https://nextjs.org/docs/app/building-your-application/deploying) 了解更多詳情。
